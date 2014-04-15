@@ -1,8 +1,8 @@
-# Cirope's blog
+# Cirope's blog #
 
 Cirope's histories go here...
 
-== (The MIT License)
+## (The MIT License) ##
 
 Copyright (c) 2014 Cirope S.A.
 
