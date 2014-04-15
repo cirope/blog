@@ -1,0 +1,6 @@
+name: Blog de Cirope
+markdown: redcarpet
+pygments: true
+permalink: pretty
+redcarpet:
+  extensions: [autolink, strikethrough, tables]
